@@ -1,7 +1,7 @@
 # CSS Positioning 101
 
-### A continuación replico los ejercicios del artículo CC Positioning 101 de Noah Stokes.
+### A continuación replico los ejercicios del artículo CCS Positioning 101 de Noah Stokes.
 
-![Sin titulo](assets/images/NoahStokes.jpg)
+![Con titulo](assets/images/NoahStokes.jpg "Noah Stokes info")
 
-####                                       _By Lucero Hospina_
+#####                                       _By Lucero Hospina_
