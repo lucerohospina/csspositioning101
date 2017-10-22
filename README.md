@@ -2,6 +2,6 @@
 
 ### A continuación replico los ejercicios del artículo CCS Positioning 101 de Noah Stokes.
 
-![Con titulo](assets/images/NoahStokes.jpg "Noah Stokes info")
+![sin titulo](assets/images/NoahStokes.jpg)
 
-#####                                       _By Lucero Hospina_
+#####                      _By Lucero Hospina_
